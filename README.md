@@ -9,7 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1 
-* Student ID: Not-Vietnamese
+
 * Student Name: Tran Gia Khanh
 * Student ID: 23BI14218
